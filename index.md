@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Bla
 
-  - la
-  - li
-  - lu
-  - muh
+* la
+* li
+* lu
+* muh
