@@ -4,6 +4,7 @@ title = 'SteVio'
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
+publishDir = "docs"
 
 [params.author]
   name = "Stefan Viol"
