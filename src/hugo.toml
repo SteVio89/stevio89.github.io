@@ -1,0 +1,33 @@
+baseURL = 'https://stevio89.github.io/'
+languageCode = 'de-de'
+title = 'SteVio'
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+publishDir = "../"
+
+[params.author]
+  name = "Stefan Viol"
+  headline = "Software developer and gamer"
+  # image = "img/author.jpg"  # path relative to static directory
+
+  links = [
+    { email = "mailto:stefan@stevio.de" },
+
+    { github = "https://github.com/SteVio89" },
+    
+  
+    { linkedin = "https://linkedin.com/in/stefan-viol-20174a266" },
+ 
+    { steam = "https://steamcommunity.com/id/stevio1989" },
+    
+    { twitch = "https://twitch.tv/stevio13" },
+   
+    # { youtube = "" },
+  ]
+
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"
