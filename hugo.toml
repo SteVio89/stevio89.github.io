@@ -4,7 +4,6 @@ title = 'SteVio'
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
-publishDir = "../"
 
 [params.author]
   name = "Stefan Viol"
