@@ -9,3 +9,9 @@ update-theme:
 # Build site
 build:
   hugo
+
+# Publish
+publish message:
+  git add --all
+  git commit -m '{{message}}'
+  git push
