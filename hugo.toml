@@ -8,7 +8,7 @@ publishDir = "docs"
 
 [params.author]
   name = "Stefan Viol"
-  headline = "Software developer and gamer"
+  headline = "software developer and gamer"
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
