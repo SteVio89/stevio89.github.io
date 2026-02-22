@@ -24,6 +24,8 @@ links = [
 
   { twitch = "https://twitch.tv/stevio13" },
 
+  { store = "https://store.stevio.de"}
+
   # { youtube = "" },
 ]
 
