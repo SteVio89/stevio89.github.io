@@ -24,7 +24,9 @@ links = [
 
   { twitch = "https://twitch.tv/stevio13" },
 
-  { store = "https://store.stevio.de"}
+  { apple = "https://apps.apple.com/de/developer/stefan-viol/id1807412576" },
+
+  { store = { href = "https://store.stevio.de", text = "My App Store", icon = "link" } }
 
   # { youtube = "" },
 ]
